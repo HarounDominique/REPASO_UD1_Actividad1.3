@@ -55,4 +55,14 @@ public class Persona {
     public void setSalario(float salario) {
         this.salario = salario;
     }
+
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "id=" + id +
+                ", dni='" + dni + '\'' +
+                ", edad=" + edad +
+                ", salario=" + salario +
+                '}';
+    }
 }
