@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efb9908d-57bd-493a-aad2-504fc2f3ee77" name="Changes" comment="terminado el punto 2">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="efb9908d-57bd-493a-aad2-504fc2f3ee77" name="Changes" comment="terminado el punto 4">
+      <change afterPath="$PROJECT_DIR$/src/ad/teis/model/RandomAccessPersistencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ad/teis/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ad/teis/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670775983973</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="terminado el punto 4">
+      <created>1670776449695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670776449695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="terminado el punto 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado el punto 2" />
+    <MESSAGE value="terminado el punto 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado el punto 4" />
   </component>
 </project>
